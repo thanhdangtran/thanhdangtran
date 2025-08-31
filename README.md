@@ -22,6 +22,6 @@
 - Visualization: matplotlib, seaborn, Power BI  
 
 ## 🌐 Connect
-- [LinkedIn]([https://www.linkedin.com/]https://www.linkedin.com/in/thanhdangtran/))  
-- [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/ngtrnthnh)  
-- Email: your.email@example.com  
+- [LinkedIn](https://www.linkedin.com/in/thanhdangtran/)
+- [Kaggle](https://www.kaggle.com/ngtrnthnh)  
+- Email: thanhdang0499@gmail.com 
